@@ -1,0 +1,28 @@
+3
+
+Vladimir Kadakov
+2
+1
+Kolb 6 Operation systems
+2
+Mazanik 4 Mathematical analysis
+Komrakov 5 Geometry
+
+Nikita Frolov
+3
+3
+Zenko 1 Operation systems
+Levakov 10 Mathematical analysis
+Komrakov 9 Geometry
+1
+Veremejchik 10 Physical education
+1
+Kolb 10 operation systems
+
+Eugene Kroshinsky
+1
+4
+Levakov 3 Mathematical analysis
+Komrakov 9 Geometry
+Lebedeva 10 History
+Karpovich 10 Programming
